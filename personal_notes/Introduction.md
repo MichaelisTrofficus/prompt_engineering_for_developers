@@ -5,13 +5,15 @@ These are  my personal notes on the new course by Deeplearning.AI: `Prompt Engin
 The best way to proceed is to read the topics in order 😀😀😀
 ```
 
-### [Types of LLM](Types%20of%20LLM)
+### [Types of LLM](Types%20of%20LLM.md)
 
 A simple description of the types of LLMs.
 
-### [Guidelines](Guidelines)
+### [Guidelines](Guidelines.md)
 
-There are two main principles for prompting:  
-  
-1. **Principle 1**: Write clear and specific instructions  
-2. **Principle 2**: Give the model time to think  
+Hands-on approach to the basic  principles of prompt engineering.
+
+### [Iterative Prompt Development](Iterative%20Prompt%20Development.md)
+
+
+

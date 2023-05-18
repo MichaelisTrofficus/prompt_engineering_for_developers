@@ -342,4 +342,29 @@ Incorrect.
 
 # Model Hallucinations
 
-So, if the model is being exposed to a vast amount of knowledge during its training process, it has not perfectly memorised the information it's seen, and so it doesn't know the boundary of its knowledge very well. This means that it might try to answer questions about obscure topics and can make things up that sound plausible but are not actually true. And we call these fabricated ideas hallucinations.  And so, I'm going to show you an example of a case where the model will hallucinate something. This is an example of where the model kind of confabulates a description of a made-up product name from a real toothbrush company.
+So, if the model is being exposed to a vast amount of knowledge during its training process, it has not perfectly memorised the information it's seen, and so it doesn't know the boundary of its knowledge very well. This means that it might try to answer questions about obscure topics and can make things up that sound plausible but are not actually true. And we call these fabricated ideas hallucinations.  For example:
+
+```python
+prompt = f"""
+Tell me about AeroGlide UltraSlim Smart Toothbrush by Boie
+"""
+response = get_completion(prompt)
+print(response)
+```
+
+And the result is:
+
+```python
+The AeroGlide UltraSlim Smart Toothbrush by Boie is a high-tech toothbrush that uses advanced sonic technology to provide a deep and thorough clean. It features a slim and sleek design that makes it easy to hold and maneuver, and it comes with a range of smart features that help you optimize your brushing routine.
+
+One of the key features of the AeroGlide UltraSlim Smart Toothbrush is its advanced sonic technology, which uses high-frequency vibrations to break up plaque and bacteria on your teeth and gums. This technology is highly effective at removing even the toughest stains and buildup, leaving your teeth feeling clean and refreshed.
+
+In addition to its sonic technology, the AeroGlide UltraSlim Smart Toothbrush also comes with a range of smart features that help you optimize your brushing routine. These include a built-in timer that ensures you brush for the recommended two minutes, as well as a pressure sensor that alerts you if you're brushing too hard.
+
+Overall, the AeroGlide UltraSlim Smart Toothbrush by Boie is a highly advanced and effective toothbrush that is perfect for anyone looking to take their oral hygiene to the next level. With its advanced sonic technology and smart features, it provides a deep and thorough clean that leaves your teeth feeling fresh and healthy.
+```
+
+A solution to mitigate model hallucinations is the following:
+
+1. Find relevant information
+2. Only then answer the question based on relevant information
