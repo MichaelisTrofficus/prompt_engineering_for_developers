@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/Iterative Prompt Development.md",
+                "file": "definitions/LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eb1c79cc269220cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lectures/Transforming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/Transforming.md",
+                "file": "definitions/LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/Transforming.md",
+                "file": "definitions/LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/Transforming.md"
+                "file": "definitions/LLM.md"
               }
             }
           }
@@ -195,26 +183,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb1c79cc269220cb",
+  "active": "6867d6e27b2c9630",
   "lastOpenFiles": [
+    "definitions/RLHF.md",
     "lectures/Iterative Prompt Development.md",
-    "lectures/Expanding.md",
-    "lectures/Guidelines.md",
     "lectures/Inferring.md",
-    "lectures/Summarizing.md",
-    "lectures/Chatbot.md",
+    "images/parameters_of_transformer_based_language_models-f.png",
+    "images/iterative_prompt_development.png",
     "Introduction.md",
     "Untitled.md",
+    "lectures/Types of LLM.md",
+    "lectures/Transforming.md",
+    "lectures/Expanding.md",
+    "lectures/Guidelines.md",
+    "lectures/Summarizing.md",
+    "lectures/Chatbot.md",
     "lectures",
     "lectures/Conclusion.md",
-    "lectures/Transforming.md",
-    "lectures/Types of LLM.md",
-    "definitions/RLHF.md",
     "definitions/LLM.md",
-    "images/iterative_prompt_development.png",
     "Model Hallucinations.md",
     "Types.md",
-    "images/parameters_of_transformer_based_language_models-f.png",
     "images/rlhf.png",
     "images/base_vs_tuned.png",
     "images/rlhf.md",
