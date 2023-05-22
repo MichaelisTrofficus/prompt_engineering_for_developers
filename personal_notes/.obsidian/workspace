@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "16e9dce2a3fd5e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd7cb1ade959e90c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "lectures/Chatbot.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b494c4c118d354e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c8f8562be28a0db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df851309768e7386",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3e289f558d8d2cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14c643abe25fe977",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9b96b6d98e788e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b50d7751f5afbb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lectures/Chatbot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a49b7de36c89108f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lectures/Chatbot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2657e1a681575380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb5bfdbd9503f1ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lectures/Chatbot.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cd7cb1ade959e90c",
+  "lastOpenFiles": [
+    "lectures/Chatbot.md",
+    "lectures/Expanding.md",
+    "lectures/Guidelines.md",
+    "Introduction.md",
+    "lectures/Conclusion.md",
+    "lectures/Types of LLM.md",
+    "lectures/Transforming.md",
+    "lectures/Summarizing.md",
+    "lectures/Iterative Prompt Development.md",
+    "lectures/Inferring.md"
+  ]
+}

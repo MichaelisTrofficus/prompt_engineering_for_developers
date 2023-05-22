@@ -13,3 +13,10 @@ Next, the LLM undertakes Deep Learning as it goes through the transformer neural
 Once an LLM has been trained, a base exists on which the AI can be used for practical purposes. By querying the LLM with a prompt, the AI model inference can generate a response, which could be an answer to a question, newly generated text, summarized text or a  sentiment analysis.
 
 ![Parameters LLM](images/parameters_of_transformer_based_language_models-f.png)    
+
+
+Large Language Models
+
+Large language models
+
+large language model
