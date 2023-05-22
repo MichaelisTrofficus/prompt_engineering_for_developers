@@ -5,15 +5,20 @@ These are  my personal notes on the new course by Deeplearning.AI: `Prompt Engin
 The best way to proceed is to read the topics in order 😀😀😀
 ```
 
-### [Types of LLM](Types%20of%20LLM.md)
+### [[Types of LLM]]
 
-A simple description of the types of LLMs.
+### [[Guidelines]]
 
-### [Guidelines](Guidelines.md)
+### [[Iterative Prompt Development]]
 
-Hands-on approach to the basic  principles of prompt engineering.
+### [[Summarizing]]
 
-### [Iterative Prompt Development](Iterative%20Prompt%20Development.md)
+### [[Inferring]]
 
+### [[Transforming]]
+
+### [[Expanding]]
+
+### [[Chatbot]]
 
 

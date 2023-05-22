@@ -7,11 +7,8 @@
         "id": "cd7cb1ade959e90c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "lectures/Chatbot.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/Chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/Chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "lectures/Chatbot.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -121,11 +114,11 @@
   },
   "active": "cd7cb1ade959e90c",
   "lastOpenFiles": [
+    "Introduction.md",
+    "lectures/Conclusion.md",
     "lectures/Chatbot.md",
     "lectures/Expanding.md",
     "lectures/Guidelines.md",
-    "Introduction.md",
-    "lectures/Conclusion.md",
     "lectures/Types of LLM.md",
     "lectures/Transforming.md",
     "lectures/Summarizing.md",

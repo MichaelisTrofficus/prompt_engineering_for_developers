@@ -97,3 +97,6 @@ print(response)
 As we can see, **this output only shows topics directly related to the topic of focus.**
 
 
+
+
+Summarizing
